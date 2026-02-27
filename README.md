@@ -1,2 +1,2 @@
-# CIVE_202_Project_3_GO1
-CIVE 202 Project 3
+# Project 3 - Visualize
+
